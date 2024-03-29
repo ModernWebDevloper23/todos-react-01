@@ -1,0 +1,27 @@
+
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;   
+    background: #02000b;
+}
+.div1{
+    display: flex;
+}
+input{
+    background: transparent;
+    color: white;
+    width: 40vw;
+    border-radius: 20%;
+    height: 10vh;
+}
+button{
+    background-color: blue;
+    color: white;
+    width: 10vw;
+    border-radius:20%;
+    height: 10vh;
+}
